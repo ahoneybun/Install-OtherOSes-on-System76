@@ -1,8 +1,16 @@
+<<<<<<< HEAD:Fedora/darp/darp9/fedora-40-workstation/install-os.md
 # ISO Tested
 
 ISO filename: Fedora-Workstation-Live-x86_64-40-1.14.iso
 
 # Features
+=======
+# Tested on the following hardware:
+
+- darp9 (Open Firmware)
+
+## Features
+>>>>>>> 98a23f5538ab4443fa54a437a118ecf297909a43:Fedora/README.md
 
 - [ ] Firmware Updates (CLI and GUI)
 - [x] Keyboard backlight key combo(s) (works without system76 driver)
