@@ -1,14 +1,8 @@
-# Fedora 40
-
-## Fedora Workstation 40
-
-ISO filename: Fedora-Workstation-Live-x86_64-40-1.14.iso
-
-### Tested on the following hardware:
+# Tested on the following hardware:
 
 - darp9 (Open Firmware)
 
-### Features
+## Features
 
 - [ ] Firmware Updates (CLI and GUI)
 - [ ] Keyboard backlight key combo(s)
