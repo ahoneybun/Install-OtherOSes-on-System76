@@ -1,19 +1,13 @@
-# Fedora 40
-
-## Fedora Workstation 40
+# ISO Tested
 
 ISO filename: Fedora-Workstation-Live-x86_64-40-1.14.iso
 
-### Tested on the following hardware:
-
-- darp9 (Open Firmware)
-
-### Features
+# Features
 
 - [ ] Firmware Updates (CLI and GUI)
-- [ ] Keyboard backlight key combo(s)
-- [ ] Screen backlight key combos
-- [ ] Sound key combos
+- [x] Keyboard backlight key combo(s) (works without system76 driver)
+- [x] Screen backlight key combos (works without system76 driver)
+- [x] Sound key combos (works without system76 driver)
 - [ ] System76 Driver Log creation
 - [ ] Graphic Switching
 - [ ] Power profiles 
@@ -21,8 +15,8 @@ ISO filename: Fedora-Workstation-Live-x86_64-40-1.14.iso
 | Item | Notes | Grade |
 |:--------:|:------------:|:----:|
 | Booting from media | Boots up to the installer with no changes | A |
-| OS Install | OS installs to the drive with no changes |  |
-| Booting from new install | OS boots from the drive with no changes | |
+| OS Install | OS installs to the drive with no changes | A |
+| Booting from new install | OS boots from the drive with no changes | A |
 | Install System76 Software | Software is available from the 3rd Party Repo | |
 | System76 Software | Only software that does not work is system76-power GNOME Extension with GNOME 44 | |
 
