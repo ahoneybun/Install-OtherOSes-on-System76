@@ -1,6 +1,12 @@
-# Fedora 34
+# Fedora 40
 
-> Install [Community COPR Repo](https://copr.fedorainfracloud.org/coprs/szydell/system76/)
+## Fedora Workstation 40
+
+### Tested on the following hardware:
+
+- darp9
+
+## Install [Community COPR Repo](https://copr.fedorainfracloud.org/coprs/szydell/system76/)
 
 ```
 sudo dnf copr enable szydell/system76
