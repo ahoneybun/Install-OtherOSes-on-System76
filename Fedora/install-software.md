@@ -1,14 +1,4 @@
-# Fedora 40
-
-## Fedora Workstation 40
-
-ISO filename: Fedora-Workstation-Live-x86_64-40-1.14.iso
-
-### Tested on the following hardware:
-
-- darp9
-
-## Install [Community COPR Repo](https://copr.fedorainfracloud.org/coprs/szydell/system76/)
+# Install [Community COPR Repo](https://copr.fedorainfracloud.org/coprs/szydell/system76/)
 
 ```
 sudo dnf copr enable szydell/system76
